@@ -1,0 +1,13 @@
+member_id,member_name,village,nik_status,registration_date,membership_status
+M001,Andi Saputra,Desa Maju,Available,2026-01-15,Active
+M002,Budi Santoso,Desa Maju,Available,2026-01-18,Active
+M003,Citra Lestari,Desa Harapan,Missing,2026-02-02,Active
+M004,Dedi Kurniawan,Desa Harapan,Available,2026-02-10,Active
+M005,Eka Pratama,Desa Makmur,Available,2026-02-15,Inactive
+M006,Fajar Nugroho,Desa Makmur,Available,2026-03-01,Active
+M007,Gita Permata,Desa Maju,Missing,2026-03-04,Active
+M008,Hendra Wijaya,Desa Harapan,Available,2026-03-12,Active
+M009,Intan Puspita,Desa Makmur,Available,2026-03-20,Active
+M010,Joko Firmansyah,Desa Maju,Available,2026-04-01,Active
+M011,Kartika Dewi,Desa Harapan,Available,2026-04-07,Active
+M012,Lukman Hakim,Desa Makmur,Missing,2026-04-14,Active
