@@ -1,0 +1,7 @@
+issue_id,issue,record_id,member_id,priority,recommended_action
+ISS-001,Mapping without master member,P011,M013,High,Verifikasi ID dan dokumen keanggotaan
+ISS-002,Member without mapping,-,M012,High,Konfirmasi status kebun dan jadwalkan verifikasi
+ISS-003,Missing NIK,-,M012,High,Tindak lanjuti kelengkapan administrasi
+ISS-004,Potential duplicate plot,P002; P013,M002,Medium,Verifikasi geometri GIS atau dokumen lapangan
+ISS-005,Potential duplicate plot,P005; P012,M006,Medium,Verifikasi geometri GIS atau dokumen lapangan
+ISS-006,Inactive member without mapping,-,M005,Low,Konfirmasi apakah pemetaan masih diperlukan
