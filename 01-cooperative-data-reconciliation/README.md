@@ -128,6 +128,31 @@ The current working dataset contains 14 plot records: 12 mapped and 2 pending, r
 
 This chart summarizes data quality issues by priority to support verification and follow-up planning.
 
+## Conclusion
+
+This project demonstrates a structured workflow for reconciling cooperative membership records with farm mapping data. By combining member-level and plot-level information, the analysis provides a clearer view of mapping coverage, unmatched records, and data quality issues requiring further verification.
+
+In the current working dataset, 10 out of 12 member records are classified as having mapping records, equivalent to a member mapping coverage of 83.33%. Two member records remain without mapping records in the current reconciliation output.
+
+Plot-level coverage is assessed separately from member-level coverage. Final plot coverage figures should be reported only after the total number of plot records, unique plot identifiers, and mapping statuses have been reconciled across the source data, KPI summary, and visualizations.
+
+The analysis also produces a data quality issue log that can support verification and follow-up activities. These outputs are intended to help teams identify unresolved records and prioritize administrative or mapping checks.
+
+## Recommendations
+
+1. **Verify unmatched records.** Investigate members and farm mapping records that cannot be matched using the current identifiers.
+2. **Standardize identifiers.** Apply consistent rules for member IDs and plot IDs before joining datasets.
+3. **Resolve missing administrative information.** Review incomplete identification fields through authorized administrative processes.
+4. **Prioritize unresolved mapping cases.** Assign follow-up owners and track issue status, verification dates, and resolutions.
+5. **Standardize KPI definitions.** Document the denominator and eligibility rules used for member mapping coverage and plot mapping coverage.
+6. **Refresh outputs after corrections.** Recalculate KPI summaries and regenerate visualizations whenever source records are updated.
+
+## Limitations
+
+The dataset used in this portfolio is synthetic and is intended to demonstrate analytical methods rather than represent verified operational performance. Matching status does not independently confirm the completeness or accuracy of every record, and mapping coverage does not establish the positional accuracy of farm boundaries.
+
+The analysis should therefore be interpreted as a data reconciliation workflow and decision-support demonstration. Any operational action should be based on verified source records and appropriate review by the responsible team.
+
 
 ## Limitations
 
