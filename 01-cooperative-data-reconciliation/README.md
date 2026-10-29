@@ -108,6 +108,27 @@ The project generates:
 - Reconciliation results CSV.
 - Farm summary CSV.
 
+## KPI Visualizations
+
+### Member Mapping Coverage
+
+![Member Mapping Coverage](outputs/member_mapping_coverage.png)
+
+This chart compares cooperative members classified as matched with members without mapping records.
+
+### Farm Plot Mapping Status
+
+![Farm Plot Mapping Status](outputs/plot_mapping_status_final.png)
+
+The current working dataset contains 14 plot records: 12 mapped and 2 pending, resulting in a plot mapping coverage of 85.71%.
+
+### Data Quality Issues by Priority
+
+![Data Quality Issues](outputs/data_quality_issues.png)
+
+This chart summarizes data quality issues by priority to support verification and follow-up planning.
+
+
 ## Limitations
 
 - The current dataset is small and should be treated as a working or demonstration dataset unless its provenance is independently verified.
