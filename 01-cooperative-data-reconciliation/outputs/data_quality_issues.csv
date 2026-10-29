@@ -1,0 +1,7 @@
+issue_id,issue_type,record_id,member_id,description,priority,recommended_action
+ISS-001,Mapping without master member,P011,M013,Member ID tidak ditemukan di master anggota,High,Verifikasi ID dan dokumen keanggotaan
+ISS-002,Member without mapping,-,M012,Anggota aktif belum memiliki data pemetaan,High,Konfirmasi status kebun dan jadwalkan verifikasi
+ISS-003,Missing NIK,-,M012,Status NIK tercatat Missing,High,Tindak lanjuti kelengkapan administrasi
+ISS-004,Potential duplicate plot,P002; P013,M002,Dua plot memiliki atribut yang sama,Medium,Verifikasi geometri GIS atau dokumen lapangan
+ISS-005,Potential duplicate plot,P005; P012,M006,Dua plot memiliki atribut yang sama,Medium,Verifikasi geometri GIS atau dokumen lapangan
+ISS-006,Member without mapping,-,M005,Anggota berstatus Inactive belum memiliki pemetaan,Low,Konfirmasi apakah pemetaan masih diperlukan

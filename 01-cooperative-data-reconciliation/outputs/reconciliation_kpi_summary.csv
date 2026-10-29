@@ -1,7 +1,15 @@
-indicator,value
-Total members,12
-Members with mapping,10
-Members without mapping,2
-Members with missing NIK,3
-Mapping records without a master member,1
-Total mapping records,14
+KPI,Value
+Total members in master,12.0
+Active members in master,11.0
+Matched members,10.0
+Members without mapping,2.0
+Member mapping coverage (%),83.33
+Total plot records in farms,14.0
+Mapped plots,12.0
+Pending plots,2.0
+Other plot statuses,0.0
+Plot mapping coverage (%),85.71
+Total data quality issues,6.0
+High priority issues,3.0
+Medium priority issues,2.0
+Low priority issues,1.0
